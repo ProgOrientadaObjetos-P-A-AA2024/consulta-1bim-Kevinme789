@@ -1,4 +1,5 @@
 class Animal:
+
     def __init__(self, nombre,raza,habitat):
         self.nombre = nombre
         self.raza = raza
